@@ -12,9 +12,9 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Nguyễn Đình Khang
+- Mã học viên: 2A202602584
+- Nhóm: ActionPlan
 - Repository/branch:
 
 ## Phần việc đã thực hiện
@@ -52,5 +52,5 @@ Mô tả tối đa hai quyết định mà bạn trực tiếp tham gia:
 
 Tôi xác nhận nội dung trên phản ánh đúng phần việc của mình và có thể giải thích hoặc chạy lại trong buổi demo.
 
-- Ngày:
-- Tên thành viên:
+- Ngày: 20-09-2026
+- Tên thành viên: Nguyễn Đình Khang 
